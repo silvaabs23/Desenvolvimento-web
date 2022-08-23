@@ -2,6 +2,28 @@
 <head>
 </head>
 <body>
-olá mundo!
+<ul>
+<li>Home</li>
+<li>Explorar</li>
+<li>Notificações</li>
+<li>Menssagens</li>
+<li>Favoritos</li>
+<li>Listas</li>
+<li>Perfil</li>
+<li>Mais</li>
+</ul>
+<h4>
+Alexandre Bruno Santiago da Silva
+</h4>
+<h6>
+silvaabs
+</h6>
+<button>
+Editar Perfil
+</button>
+<ul>
+<li>Quixadá</li>
+<li>23 Agosto de 2022</li>
+</ul>
 </body>
-<\html>
+</html>
