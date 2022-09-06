@@ -1,16 +1,30 @@
-<html>
+html>
 <head>
+<style type="text/css">
+body {
+	background-color: white;
+	color: rgb(15, 20, 25);
+	}
+a:link {
+	color: rgb(15, 20, 25);
+	text-decoration: none
+	}
+a:hover {
+	background-color: rgba(15, 25, 20, 0.1);
+	border-radius: 10px;
+	}
+</style>
 </head>
 <body>
 <ul>
-<li>Home</li>
-<li>Explorar</li>
-<li>Notificações</li>
-<li>Menssagens</li>
-<li>Favoritos</li>
-<li>Listas</li>
-<li>Perfil</li>
-<li>Mais</li>
+<li><a href ="">Home</a></li>
+<li><a href ="">Explorar</a></li>
+<li><a href ="">Notificações</a></li>
+<li><a href ="">Menssagens</a></li>
+<li><a href ="">Favoritos</a></li>
+<li><a href ="">Listas</a></li>
+<li><a href ="">Perfil</a></li>
+<li><a href ="">Mais</a></li>
 </ul>
 <h4>
 Alexandre Bruno Santiago da Silva
@@ -26,8 +40,8 @@ Editar Perfil
 <li>23 Agosto de 2022</li>
 </ul>
 <ul>
-<li>0 Seguindo</li>
-<li>0 Seguidores</li>
+<li><a href ="">0 Seguindo</a></li>
+<li><a href ="">0 Seguidores</a></li>
 </ul>
 <p>
 Alexandre Bruno Santiago da Silva silvaabs 
