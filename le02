@@ -1,19 +1,5 @@
-html>
+<html>
 <head>
-<style type="text/css">
-body {
-	background-color: white;
-	color: rgb(15, 20, 25);
-	}
-a:link {
-	color: rgb(15, 20, 25);
-	text-decoration: none
-	}
-a:hover {
-	background-color: rgba(15, 25, 20, 0.1);
-	border-radius: 10px;
-	}
-</style>
 </head>
 <body>
 <ul>
